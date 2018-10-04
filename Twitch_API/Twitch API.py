@@ -22,7 +22,7 @@ topgames_base_url =f"https://api.twitch.tv/kraken/games/top/?client_id={client_I
 
 
 # In[42]:
-loops = np.arange(0,168,1)
+loops = np.arange(0,240,1)
 for loop in loops:
     timestamps = []
     game_names = []
