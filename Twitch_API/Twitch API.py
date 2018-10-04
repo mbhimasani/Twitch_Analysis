@@ -74,5 +74,5 @@ for loop in loops:
     print(f'On loop {loop}')
     print('----------------')
     #Sleep 3600 seconds/1 hour
-    timer.sleep(3600)
+    time.sleep(3600)
 
